@@ -1,0 +1,3 @@
+ANCHO = 650
+ALTO = 550
+FPS = 60
